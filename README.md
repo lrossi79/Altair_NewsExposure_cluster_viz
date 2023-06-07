@@ -2,7 +2,7 @@
 
 Fabio Giglietto, Università degli Studi di Urbino Carlo Bo; Giada Marino, Università degli Studi di Urbino; Roberto Mincigrucci, Università degli Studi di Urbino Carlo Bo; Nicola Righetti, University of Vienna; Luca Rossi, IT University of Copenhagen; Anna Stanziano, Università degli Studi di Urbino Carlo Bo; Massimo Terenzi, Università degli Studi di Urbino Carlo Bo
 
-| Paper presented at the conference: AssoCompol - [Beyond digital political communication: platforms, algorithms and automation](https://www.compol.it/eventi/convegno/convegno-2023/), University of Torino. 8 - 10 June 2023
+Paper presented at the conference: AssoCompol - [Beyond digital political communication: platforms, algorithms and automation](https://www.compol.it/eventi/convegno/convegno-2023/), University of Torino. 8 - 10 June 2023
 
 #### Getting started
 
