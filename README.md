@@ -3,4 +3,4 @@
 
  
 This repository contains the code to generate two interactive visualizations of the clusters of news identified during the 2018 and 2022 Italian general elections. 
-The data necessary to reproduce the visualizations is not shared, anyway you can download the self-contained HTML files for the 2018 and 2022 interactive visualizations.
+The data necessary to reproduce the visualizations is not shared, anyway you can download the self-contained HTML files for the 2018 and 2022 interactive visualizations. Please notice that *in order to do that you need to download the raw HTML files*.
